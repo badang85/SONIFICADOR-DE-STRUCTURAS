@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Protein Sonifier",
+  "description": "Translates Protein Data Bank (PDB) structures into complex, physically-grounded soundscapes using Web Audio API.",
+  "requestFramePermissions": []
+}
